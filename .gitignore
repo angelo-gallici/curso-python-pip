@@ -28,6 +28,10 @@ Icon
 #imagenes png
 *.png
 
+#entornos virtuales
+entornoApp/
+entornoGame/
+
 
 # Thumbnails
 ._*
